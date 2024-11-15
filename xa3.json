@@ -10,6 +10,42 @@
       "filterable": 1
     },
     {
+      "key": "❤番号资源",
+      "name": "❤番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "❤老鸭资源",
+      "name": "❤老鸭资源",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+        {
+      "key": "❤大地资源",
+      "name": "❤大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "❤乐播资源",
+      "name": "❤乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "❤色猫资源",
       "name": "❤色猫资源",
       "type": 1,
@@ -379,15 +415,6 @@
       "filterable": 0
     },
     {
-      "key": "❤大地资源",
-      "name": "❤大地资源",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "❤CK资源",
       "name": "❤CK资源",
       "type": 1,
@@ -397,28 +424,10 @@
       "filterable": 0
     },
     {
-      "key": "❤老鸭资源",
-      "name": "❤老鸭资源",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "❤花椒资源",
       "name": "❤花椒资源",
       "type": 1,
       "api": "https://apihjzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "❤乐播资源",
-      "name": "❤乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -487,15 +496,6 @@
       "filterable": 0
     },
     {
-      "key": "❤番号资源",
-      "name": "❤番号资源",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "❤鲨鱼资源",
       "name": "❤鲨鱼资源",
       "type": 1,
@@ -513,15 +513,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "zp098",
-      "name": "老鸭资源",
-      "type": 0,
-      "api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
   ],
   "lives": [
     {
