@@ -10,15 +10,6 @@
       "filterable": 1
     },
     {
-      "key": "❤老鸭资源",
-      "name": "❤老鸭资源",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "❤大地资源",
       "name": "❤大地资源",
       "type": 0,
@@ -27,6 +18,15 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+      "key": "❤老鸭资源",
+      "name": "❤老鸭资源",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }, 
     {
       "key": "❤乐播资源",
       "name": "❤乐播资源",
