@@ -1,13 +1,13 @@
 {
   "sites": [
     {
-      "key": "csp_Kunyu77",
-      "name": "👒最初〔公众号：米兔互联〕",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key": "❤乐播资源",
+      "name": "❤乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "❤大地资源",
@@ -27,15 +27,6 @@
       "quickSearch": 0,
       "filterable": 0
     }, 
-    {
-      "key": "❤乐播资源",
-      "name": "❤乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
     {
       "key": "❤色猫资源",
       "name": "❤色猫资源",
